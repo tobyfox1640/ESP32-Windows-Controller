@@ -6,8 +6,8 @@
 #include <ESPmDNS.h>
 
 // 配置区
-const char* ssid = "Mi 10S";
-const char* password = "Aa1093464588";
+const char* ssid = "your ssid";
+const char* password = "your password";
 const char* hostname = "esp32-controller";
 
 WebServer server(80);
