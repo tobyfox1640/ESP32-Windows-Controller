@@ -1,12 +1,6 @@
-<center style="font-size: 70px">欢迎使用</center>
+# <p align="center">欢迎使用</p>
 
-<center style="font-size: 50px">ESP32 Windows Controller</center>
-
----
-
-<center style="font-size: 30px; margin: 40px">演示视频</center>
-
-<video width="1280" height="350" controls style="display: block; margin: 0 auto;"><source src="video/2026-03-23 18-07-10.mp4" type="video/mp4">
+## <p align="center">ESP32 Windows Controller</p>
 
 ---
 
